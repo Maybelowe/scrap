@@ -1,0 +1,30 @@
+[
+  {
+    "author": "Lowee",
+    "hentai":[
+      "https://tes.com",
+      "https://tes.com",
+      "https://tes.com",
+      "https://tes.com"
+    
+    ],
+    "nimewall":[
+      "https://tes.com",
+      "https://tes.com",
+      "https://tes.com",
+      "https://tes.com"
+    ],
+    "waifu":[
+      "https://tes.com",
+      "https://tes.com",
+      "https://tes.com",
+      "https://tes.com"
+    ],
+    "husbu":[
+      "https://tes.com",
+      "https://tes.com",
+      "https://tes.com",
+      "https://tes.com"
+    ]
+  }
+]
